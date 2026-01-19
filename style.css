@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ffe4e1; /* Soft pink background */
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+h1 { color: #d63384; }
+
+.btn-group {
+    margin-top: 20px;
+    position: relative; /* Important for the moving 'No' button */
+}
+
+.btn {
+    padding: 10px 25px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.yes-btn { background-color: #4caf50; color: white; }
+.no-btn { background-color: #f44336; color: white; }

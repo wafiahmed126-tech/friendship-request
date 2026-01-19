@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Friends?</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="tenor-gif-embed" data-postid="23412513" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+            <a href="https://tenor.com/view/milk-and-mocha-hug-love-cute-gif-23412513">Milk and Mocha GIF</a>
+        </div>
+        <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+        <h1>Can we be friends again? 🥺</h1>
+        <p>I miss our talks.</p>
+
+        <div class="btn-group">
+            <a href="yes.html" class="btn yes-btn">Yes</a>
+            <button id="no-btn" class="btn no-btn">No</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
